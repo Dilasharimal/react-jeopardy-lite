@@ -10,6 +10,13 @@ function Navigation(props) {
       <li>
         <Link to="/welcome/Dilasha!">Welcome</Link>
       </li>
+
+      <li>
+        <Link to="/clock">Clock</Link>
+      </li>
+      <li>
+        <Link to="/contact">Contact</Link>
+      </li>
     </ul>
   );
 }
